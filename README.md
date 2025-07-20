@@ -1,9 +1,13 @@
 # Pygame Flappy Bird Clone (Self-Taught Project)
 
-这是一个我在大一暑假自学`Pygame`库时，从零开始独立实现的Flappy Bird克隆版游戏。
+这是一个我在大一暑假自学`Pygame`库时，从零开始独立实现的Flappy Bird克隆版游戏。游戏内的素材部分来源于网络，如有侵权可联系我删除。
 
 > **[!] 重要运行提示:**
 > 这个项目是我早期学习时的作品，代码中的资源文件（图片、声音）使用了**硬编码的相对路径**（例如 `935b.../img/bird0.png`）。为了保证游戏能正确运行，请**不要修改仓库内的文件夹结构**。
+
+游戏画面展示：
+<img width="517" height="768" alt="image" src="https://github.com/user-attachments/assets/bc8220ee-4803-440d-8ab9-9cd06bb8d857" />
+<img width="517" height="768" alt="image" src="https://github.com/user-attachments/assets/f57911f6-88da-41d2-bf2f-e691ec31894c" />
 
 ---
 
